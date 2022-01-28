@@ -1,0 +1,396 @@
+CoC Number,CoC Category
+AK-500,Other Largely Urban CoC
+AK-501,Largely Rural CoC
+AL-500,Largely Suburban CoC
+AL-501,Other Largely Urban CoC
+AL-502,Largely Rural CoC
+AL-503,Other Largely Urban CoC
+AL-504,Other Largely Urban CoC
+AL-505,Largely Rural CoC
+AL-506,Other Largely Urban CoC
+AL-507,Largely Rural CoC
+AR-500,Other Largely Urban CoC
+AR-501,Other Largely Urban CoC
+AR-503,Largely Rural CoC
+AR-505,Largely Rural CoC
+AZ-500,Largely Rural CoC
+AZ-501,Major City CoC
+AZ-502,Major City CoC
+CA-500,Major City CoC
+CA-501,Major City CoC
+CA-502,Major City CoC
+CA-503,Major City CoC
+CA-504,Other Largely Urban CoC
+CA-505,Largely Suburban CoC
+CA-506,Largely Rural CoC
+CA-507,Largely Suburban CoC
+CA-508,Largely Suburban CoC
+CA-509,Largely Rural CoC
+CA-510,Largely Suburban CoC
+CA-511,Largely Suburban CoC
+CA-512,Largely Suburban CoC
+CA-513,Largely Suburban CoC
+CA-514,Major City CoC
+CA-515,Largely Suburban CoC
+CA-516,Largely Rural CoC
+CA-517,Other Largely Urban CoC
+CA-518,Largely Suburban CoC
+CA-519,Largely Rural CoC
+CA-520,Largely Suburban CoC
+CA-521,Largely Suburban CoC
+CA-522,Largely Rural CoC
+CA-523,Largely Rural CoC
+CA-524,Largely Suburban CoC
+CA-525,Largely Suburban CoC
+CA-526,Largely Rural CoC
+CA-527,Largely Rural CoC
+CA-529,Largely Rural CoC
+CA-530,Largely Rural CoC
+CA-531,Largely Rural CoC
+CA-600,Major City CoC
+CA-601,Major City CoC
+CA-602,Largely Suburban CoC
+CA-603,Largely Suburban CoC
+CA-604,Other Largely Urban CoC
+CA-606,Major City CoC
+CA-607,Other Largely Urban CoC
+CA-608,Largely Suburban CoC
+CA-609,Largely Suburban CoC
+CA-611,Other Largely Urban CoC
+CA-612,Other Largely Urban CoC
+CA-613,Largely Suburban CoC
+CA-614,Largely Suburban CoC
+CO-500,Largely Rural CoC
+CO-503,Major City CoC
+CO-504,Major City CoC
+CO-505,Other Largely Urban CoC
+CT-503,Other Largely Urban CoC
+CT-505,Largely Suburban CoC
+DC-500,Major City CoC
+DE-500,Largely Suburban CoC
+FL-500,Largely Suburban CoC
+FL-501,Major City CoC
+FL-502,Other Largely Urban CoC
+FL-503,Largely Suburban CoC
+FL-504,Largely Suburban CoC
+FL-505,Largely Suburban CoC
+FL-506,Other Largely Urban CoC
+FL-507,Largely Suburban CoC
+FL-508,Largely Rural CoC
+FL-509,Largely Suburban CoC
+FL-510,Major City CoC
+FL-511,Largely Suburban CoC
+FL-512,Largely Suburban CoC
+FL-513,Largely Suburban CoC
+FL-514,Largely Suburban CoC
+FL-515,Largely Rural CoC
+FL-517,Largely Rural CoC
+FL-518,Largely Rural CoC
+FL-519,Largely Suburban CoC
+FL-520,Largely Suburban CoC
+FL-600,Major City CoC
+FL-601,Largely Suburban CoC
+FL-602,Largely Suburban CoC
+FL-603,Largely Suburban CoC
+FL-604,Largely Rural CoC
+FL-605,Largely Suburban CoC
+FL-606,Largely Suburban CoC
+GA-500,Major City CoC
+GA-501,Largely Rural CoC
+GA-502,Largely Suburban CoC
+GA-503,Other Largely Urban CoC
+GA-504,Other Largely Urban CoC
+GA-505,Other Largely Urban CoC
+GA-506,Largely Suburban CoC
+GA-507,Other Largely Urban CoC
+GA-508,Largely Suburban CoC
+GU-500,Largely Rural CoC
+HI-500,Largely Rural CoC
+HI-501,Largely Suburban CoC
+IA-500,Other Largely Urban CoC
+IA-501,Largely Rural CoC
+IA-502,Other Largely Urban CoC
+ID-500,Other Largely Urban CoC
+ID-501,Largely Rural CoC
+IL-500,Largely Suburban CoC
+IL-501,Largely Suburban CoC
+IL-502,Largely Suburban CoC
+IL-503,Other Largely Urban CoC
+IL-504,Largely Suburban CoC
+IL-506,Largely Suburban CoC
+IL-507,Largely Suburban CoC
+IL-508,Largely Suburban CoC
+IL-510,Major City CoC
+IL-511,Largely Suburban CoC
+IL-512,Largely Rural CoC
+IL-513,Other Largely Urban CoC
+IL-514,Largely Suburban CoC
+IL-515,Largely Rural CoC
+IL-516,Other Largely Urban CoC
+IL-517,Largely Suburban CoC
+IL-518,Largely Rural CoC
+IL-519,Largely Rural CoC
+IL-520,Largely Rural CoC
+IN-502,Largely Rural CoC
+IN-503,Major City CoC
+KS-502,Other Largely Urban CoC
+KS-503,Other Largely Urban CoC
+KS-505,Largely Suburban CoC
+KS-507,Largely Rural CoC
+KY-500,Largely Rural CoC
+KY-501,Major City CoC
+KY-502,Other Largely Urban CoC
+LA-500,Largely Rural CoC
+LA-502,Other Largely Urban CoC
+LA-503,Major City CoC
+LA-505,Largely Rural CoC
+LA-506,Largely Suburban CoC
+LA-507,Largely Rural CoC
+LA-509,Largely Suburban CoC
+MA-500,Major City CoC
+MA-502,Largely Suburban CoC
+MA-503,Largely Suburban CoC
+MA-504,Largely Suburban CoC
+MA-505,Largely Suburban CoC
+MA-506,Largely Suburban CoC
+MA-507,Largely Suburban CoC
+MA-509,Other Largely Urban CoC
+MA-510,Largely Suburban CoC
+MA-511,Largely Suburban CoC
+MA-515,Largely Suburban CoC
+MA-516,Largely Suburban CoC
+MA-519,Largely Suburban CoC
+MD-500,Largely Suburban CoC
+MD-501,Major City CoC
+MD-502,Largely Suburban CoC
+MD-503,Largely Suburban CoC
+MD-504,Largely Suburban CoC
+MD-505,Largely Suburban CoC
+MD-506,Largely Suburban CoC
+MD-507,Largely Suburban CoC
+MD-508,Largely Suburban CoC
+MD-509,Largely Suburban CoC
+MD-510,Largely Rural CoC
+MD-511,Largely Rural CoC
+MD-512,Largely Suburban CoC
+MD-513,Largely Rural CoC
+MD-600,Largely Suburban CoC
+MD-601,Largely Suburban CoC
+ME-500,Largely Rural CoC
+MI-500,Largely Rural CoC
+MI-501,Major City CoC
+MI-502,Largely Suburban CoC
+MI-503,Largely Suburban CoC
+MI-504,Largely Suburban CoC
+MI-505,Largely Suburban CoC
+MI-506,Largely Suburban CoC
+MI-507,Other Largely Urban CoC
+MI-508,Other Largely Urban CoC
+MI-509,Largely Suburban CoC
+MI-510,Largely Suburban CoC
+MI-511,Largely Rural CoC
+MI-512,Largely Rural CoC
+MI-514,Other Largely Urban CoC
+MI-515,Largely Suburban CoC
+MI-516,Largely Suburban CoC
+MI-517,Largely Rural CoC
+MI-518,Largely Suburban CoC
+MI-519,Largely Suburban CoC
+MI-523,Largely Suburban CoC
+MN-500,Major City CoC
+MN-501,Other Largely Urban CoC
+MN-502,Largely Rural CoC
+MN-503,Largely Suburban CoC
+MN-504,Largely Rural CoC
+MN-505,Largely Rural CoC
+MN-506,Largely Rural CoC
+MN-508,Largely Rural CoC
+MN-509,Largely Rural CoC
+MN-511,Largely Rural CoC
+MO-500,Largely Suburban CoC
+MO-501,Other Largely Urban CoC
+MO-503,Largely Suburban CoC
+MO-600,Other Largely Urban CoC
+MO-602,Largely Rural CoC
+MO-603,Other Largely Urban CoC
+MO-604a,Major City CoC
+MO-606,Largely Rural CoC
+MP-500,Largely Rural CoC
+MS-500,Largely Suburban CoC
+MS-501,Largely Rural CoC
+MS-503,Largely Rural CoC
+MT-500,Largely Rural CoC
+NC-500,Other Largely Urban CoC
+NC-501,Largely Suburban CoC
+NC-502,Other Largely Urban CoC
+NC-503,Largely Rural CoC
+NC-504,Other Largely Urban CoC
+NC-505,Major City CoC
+NC-506,Largely Suburban CoC
+NC-507,Major City CoC
+NC-509,Largely Suburban CoC
+NC-511,Other Largely Urban CoC
+NC-513,Other Largely Urban CoC
+NC-516,Largely Rural CoC
+ND-500,Largely Rural CoC
+NE-500,Largely Rural CoC
+NE-501,Major City CoC
+NE-502,Other Largely Urban CoC
+NH-500,Largely Rural CoC
+NH-501,Other Largely Urban CoC
+NH-502,Largely Suburban CoC
+NJ-500,Largely Suburban CoC
+NJ-501,Largely Suburban CoC
+NJ-502,Largely Suburban CoC
+NJ-503,Largely Suburban CoC
+NJ-504,Largely Suburban CoC
+NJ-506,Largely Suburban CoC
+NJ-507,Largely Suburban CoC
+NJ-508,Largely Suburban CoC
+NJ-509,Largely Suburban CoC
+NJ-510,Largely Suburban CoC
+NJ-511,Largely Suburban CoC
+NJ-512,Largely Suburban CoC
+NJ-513,Largely Suburban CoC
+NJ-514,Largely Suburban CoC
+NJ-515,Largely Suburban CoC
+NJ-516,Largely Suburban CoC
+NM-500,Major City CoC
+NM-501,Largely Rural CoC
+NV-500,Major City CoC
+NV-501,Other Largely Urban CoC
+NV-502,Largely Rural CoC
+NY-500,Largely Suburban CoC
+NY-501,Largely Rural CoC
+NY-503,Largely Suburban CoC
+NY-505,Largely Suburban CoC
+NY-507,Largely Suburban CoC
+NY-508,Largely Suburban CoC
+NY-510,Largely Rural CoC
+NY-511,Largely Rural CoC
+NY-512,Largely Suburban CoC
+NY-513,Largely Rural CoC
+NY-514,Largely Rural CoC
+NY-518,Largely Rural CoC
+NY-519,Largely Rural CoC
+NY-520,Largely Rural CoC
+NY-522,Largely Rural CoC
+NY-523,Largely Suburban CoC
+NY-525,Largely Rural CoC
+NY-600,Major City CoC
+NY-601,Largely Suburban CoC
+NY-602,Largely Suburban CoC
+NY-603,Largely Suburban CoC
+NY-604,Largely Suburban CoC
+NY-606,Largely Suburban CoC
+NY-608,Largely Rural CoC
+OH-500,Largely Suburban CoC
+OH-501,Other Largely Urban CoC
+OH-502,Largely Suburban CoC
+OH-503,Major City CoC
+OH-504,Other Largely Urban CoC
+OH-505,Largely Suburban CoC
+OH-506,Largely Suburban CoC
+OH-507,Largely Rural CoC
+OH-508,Largely Suburban CoC
+OK-500,Largely Rural CoC
+OK-501,Major City CoC
+OK-502,Major City CoC
+OK-503,Largely Rural CoC
+OK-504,Largely Suburban CoC
+OK-505,Largely Rural CoC
+OK-506,Largely Rural CoC
+OK-507,Largely Rural CoC
+OR-500,Other Largely Urban CoC
+OR-501,Major City CoC
+OR-502,Largely Suburban CoC
+OR-503,Largely Rural CoC
+OR-504,Largely Suburban CoC
+OR-505,Largely Rural CoC
+OR-506,Largely Suburban CoC
+OR-507,Largely Suburban CoC
+PA-500,Major City CoC
+PA-501,Largely Suburban CoC
+PA-502,Largely Suburban CoC
+PA-503,Largely Suburban CoC
+PA-504,Largely Suburban CoC
+PA-505,Largely Suburban CoC
+PA-506,Largely Suburban CoC
+PA-508,Largely Suburban CoC
+PA-509,Largely Rural CoC
+PA-510,Largely Suburban CoC
+PA-511,Largely Suburban CoC
+PA-512,Largely Suburban CoC
+PA-600,Largely Suburban CoC
+PA-601,Largely Rural CoC
+PA-603,Largely Suburban CoC
+PA-605,Largely Suburban CoC
+PR-502,Largely Suburban CoC
+PR-503,Largely Suburban CoC
+RI-500,Largely Suburban CoC
+SC-500,Largely Suburban CoC
+SC-501,Largely Suburban CoC
+SC-502,Largely Suburban CoC
+SC-503,Largely Rural CoC
+SD-500,Largely Rural CoC
+TN-500,Largely Rural CoC
+TN-501,Major City CoC
+TN-502,Largely Suburban CoC
+TN-503,Largely Rural CoC
+TN-504,Major City CoC
+TN-506,Largely Rural CoC
+TN-507,Largely Rural CoC
+TN-509,Largely Rural CoC
+TN-510,Largely Suburban CoC
+TN-512,Largely Rural CoC
+TX-500,Major City CoC
+TX-503,Major City CoC
+TX-600,Major City CoC
+TX-601,Major City CoC
+TX-603,Major City CoC
+TX-604,Largely Rural CoC
+TX-607,Largely Rural CoC
+TX-611,Other Largely Urban CoC
+TX-624,Largely Rural CoC
+TX-700,Major City CoC
+TX-701,Other Largely Urban CoC
+UT-500,Largely Suburban CoC
+UT-503,Largely Suburban CoC
+UT-504,Largely Suburban CoC
+VA-500,Largely Suburban CoC
+VA-501,Largely Suburban CoC
+VA-502,Largely Suburban CoC
+VA-503,Major City CoC
+VA-504,Largely Rural CoC
+VA-505,Other Largely Urban CoC
+VA-507,Other Largely Urban CoC
+VA-508,Largely Rural CoC
+VA-513,Largely Rural CoC
+VA-514,Largely Suburban CoC
+VA-521,Largely Rural CoC
+VA-600,Other Largely Urban CoC
+VA-601,Largely Suburban CoC
+VA-602,Largely Suburban CoC
+VA-603,Other Largely Urban CoC
+VA-604,Largely Suburban CoC
+VI-500,Largely Rural CoC
+VT-500,Largely Rural CoC
+VT-501,Other Largely Urban CoC
+WA-500,Major City CoC
+WA-501,Largely Rural CoC
+WA-502,Other Largely Urban CoC
+WA-503,Largely Suburban CoC
+WA-504,Largely Suburban CoC
+WA-508,Largely Suburban CoC
+WI-500,Largely Rural CoC
+WI-501,Major City CoC
+WI-502,Largely Suburban CoC
+WI-503,Other Largely Urban CoC
+WV-500,Largely Rural CoC
+WV-501,Largely Rural CoC
+WV-503,Largely Suburban CoC
+WV-508,Largely Rural CoC
+WY-500,Largely Rural CoC
+NA,NA
+NA,NA
+"a MO-604 covers territory in both Missouri and Kansas. The record described in this file represents the CoC's total territory, the sum of the point-in-time estimates the CoC separately reported for the portions of its territory in MO and in KS. However, in the companion file, Point-in-Time Estimates by State, MO-604's data have been split up between MO and KS.",NA
